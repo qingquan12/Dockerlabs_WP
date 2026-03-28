@@ -1,4 +1,4 @@
-# 80-NightBlade
+# Dockerlabs-NightBlade
 
 # NightBlade
 
@@ -422,6 +422,6 @@ www-data@ecc8658e863a:/tmp$ ./socat TCP-LISTEN:4444,fork TCP:10.10.10.1:4444 &
 
 ---
 
-==END                  2026-03-28==
+==END==
 
 ‍
